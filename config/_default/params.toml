@@ -97,7 +97,7 @@ address = {street = "238 Townshend Hall 1885 Neil Avenue Mall", city = "Columbus
 coordinates = {latitude = "39.999705", longitude = "-83.015875"}
 
 # Directions for visitors to locate you.
-directions = "Enter Building 1 and take the stairs to Office 200 on Floor 2"
+directions = ""
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
