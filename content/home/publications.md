@@ -10,7 +10,7 @@
 #title = "Recent Publications"
 #subtitle = ""
 
-[content]
+#[content]
   # Page type to display. E.g. post, talk, or publication.
   page_type = "publication"
   
@@ -30,7 +30,7 @@
     publication_type = ""
     exclude_featured = false
   
-[design]
+#[design]
   # Toggle between the various page layout types.
   #   1 = List
   #   2 = Compact
@@ -38,7 +38,7 @@
   #   4 = Citation (publication only)
   view = 2
   
-[design.background]
+#[design.background]
   # Apply a background color, gradient, or image.
   #   Uncomment (by removing `#`) an option to apply it.
   #   Choose a light or dark text color by setting `text_color_light`.
@@ -58,7 +58,7 @@
   # Text color (true=light or false=dark).
   # text_color_light = true  
   
-[advanced]
+#[advanced]
  # Custom CSS. 
  css_style = ""
  
