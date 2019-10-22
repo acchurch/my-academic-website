@@ -8,7 +8,7 @@
 #title = "Projects"
 #subtitle = ""
 
-[content]
+#[content]
   # Page type to display. E.g. project.
   page_type = "project"
   
@@ -33,7 +33,7 @@
   #   name = "Other"
   #   tag = "Demo"
 
-[design]
+#[design]
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns = "2"
 
@@ -47,7 +47,7 @@
   # For Showcase view, flip alternate rows?
   flip_alt_rows = false
 
-[design.background]
+#[design.background]
   # Apply a background color, gradient, or image.
   #   Uncomment (by removing `#`) an option to apply it.
   #   Choose a light or dark text color by setting `text_color_light`.
@@ -67,7 +67,7 @@
   # Text color (true=light or false=dark).
   # text_color_light = true  
   
-[advanced]
+#[advanced]
  # Custom CSS. 
  css_style = ""
  
