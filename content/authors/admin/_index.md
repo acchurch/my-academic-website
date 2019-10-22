@@ -68,6 +68,10 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Anna Church is a graduate student in the Department of Sociology at The Ohio State 
+University. She is also a graduate afifliate for the Institute of Population Research 
+(IPR). Her research interests include reproduction, demography, and gender 
+inequality. She has previously conducted work exploring disparities in infant 
+mortality rates and breastfeeding initiation rates. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+
