@@ -69,7 +69,7 @@ user_groups:
 ---
 
 Anna Church is a graduate student in the Department of Sociology at The Ohio State 
-University. She is also a graduate afifliate for the Institute of Population Research 
+University. She is also a student afifliate for the Institute of Population Research 
 (IPR). Her research interests include reproduction, demography, and gender 
 inequality. She has previously conducted work exploring disparities in infant 
 mortality rates and breastfeeding initiation rates. 
