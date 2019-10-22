@@ -24,7 +24,7 @@ interests:
 - Reproduction
 - Demography
 - Gender Inequality
-- Adverse Birth Experiences 
+- Birth Experiences 
 
 education:
   courses:
