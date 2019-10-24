@@ -31,7 +31,7 @@ education:
   - course: Master of Arts (MA) in Sociology
     institution: University of Memphis
     year: 2019
-  - course: B.A. in Sociology
+  - course: B.A. in Sociology with minor in Biology
     institution: University of Memphis
     year: 2017
 
